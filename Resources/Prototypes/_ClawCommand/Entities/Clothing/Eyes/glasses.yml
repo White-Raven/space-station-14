@@ -1,7 +1,7 @@
 - type: entity
   parent: [ClothingEyesHudBase, ShowSecurityIcons, ShowMedicalIcons, BaseCommandContraband]
   id: ClothingEyesGlassesMedSec
-  name: M.D.G. Eyewear
+  name: M.S.G. Eyewear
   description: Upgraded sunglasses that provide flash immunity with both medical and security HUDs.
   components:
   - type: Sprite
